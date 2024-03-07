@@ -92,8 +92,10 @@ public class Storage {
 			subscriptions.get(topic).remove(user);
 	}
 
+	/*
 	public boolean containsTopic(String topic) {
 
 		return subscriptions.contains(topic);
 	}
+	 */
 }
