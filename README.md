@@ -421,3 +421,7 @@ If you for some reason need to hand in again, then *X* will have to be a new num
 
 3. The group must provide **read access** to their solution repository to the lab-assistent. The usernames of the lab-assistants are available via Canvas.
 
+TESTS:
+
+![image](https://github.com/h587726/dat110-project2-mom-startcode/assets/54097862/99a1618f-db75-46b5-9373-0446bb763237)
+
