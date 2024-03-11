@@ -47,7 +47,7 @@ public class Storage {
 
 	public Set<String> getSubscribers(String topic) {
 
-		return (subscriptions.get(topic));
+		return subscriptions.get(topic);
 	}
 
 	public void addClientSession(String user, Connection connection) {
@@ -69,7 +69,7 @@ public class Storage {
 	public void createTopic(String topic) {
 
 		// TODO: create topic in the storage
-		subscriptions.put(topic, new HashSet<>());
+		subscriptions.put(topic, ConcurrentHashMap.newKeySet());
 	}
 
 	public void deleteTopic(String topic) {
