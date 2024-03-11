@@ -427,4 +427,5 @@ TESTS:
 
 JavaFX Chapp-program:
 
-![image](https://github.com/h587726/dat110-project2-mom-startcode/assets/54097862/adda515a-5295-41af-bf6f-5942f81203fd)
+![image](https://github.com/h587726/dat110-project2-mom-startcode/assets/54097862/64747968-d555-4217-8b01-52f3b04962de)
+
